@@ -1,6 +1,6 @@
 @echo off
 echo ============================================
-echo   SIH26124 Urban Intelligence Platform
+echo    Urban Intelligence Platform
 echo   Starting Frontend...
 echo ============================================
 cd /d "%~dp0frontend"
