@@ -1,14 +1,14 @@
-# 🛰️ UrbanSense AI — SIH26124
-## AI-Powered Mobile Urban Intelligence Platform
 
-> **Smart India Hackathon 2026 Prototype**
+## AI-Powered detection platform
+
+> **Prototype**
 > Public buses act as mobile urban sensing units. AI analyses bus camera footage to detect traffic congestion and road defects in real-time.
 
 ---
 
-## 🎯 How This Solves SIH26124
+## 🎯 How This Solves
 
-The SIH26124 problem statement asks for a mobile urban intelligence system that uses existing city infrastructure (buses) as sensing units to monitor road conditions and traffic without deploying fixed sensors everywhere.
+This problem statement asks for a mobile urban intelligence system that uses existing city infrastructure (buses) as sensing units to monitor road conditions and traffic without deploying fixed sensors everywhere.
 
 **Our solution:**
 - Every bus carries a camera (existing hardware)
@@ -246,7 +246,7 @@ Frontend will be available at: **http://localhost:5173**
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `MONGODB_URI` | `mongodb://localhost:27017` | MongoDB connection string |
-| `DATABASE_NAME` | `sih26_urban_intel` | Database name |
+| `DATABASE_NAME` | `urban_intel` | Database name |
 | `DEMO_MODE` | `true` | Enable demo data seeding |
 | `YOLO_MODEL` | `yolov8n.pt` | YOLO model path |
 | `UPLOAD_DIR` | `uploads` | Video upload directory |
