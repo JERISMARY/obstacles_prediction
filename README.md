@@ -363,11 +363,5 @@ Real GPS hardware can replace the simulator by implementing the `GPSProvider` in
 
 ---
 
-## 👥 Team
-
-Built for **Smart India Hackathon 2026**
-Problem Statement: **SIH26124 — AI-Powered Mobile Urban Intelligence Platform**
-
----
 
 *All demo data is simulated and clearly labelled. Not real-world measurements.*
